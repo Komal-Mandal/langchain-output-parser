@@ -41,7 +41,7 @@ With LangChain Output Parsers, you get structured responses like this:
 
 - Creating consistent output formats from language models
 
-✨ Features
+# ✨ Features
 
 📊 Structured Output - Convert AI text into JSON, lists, and objects
 
@@ -49,7 +49,7 @@ With LangChain Output Parsers, you get structured responses like this:
 
 ✅ Data Validation - Ensure outputs match expected formats
 
-🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 - Framework: LangChain
 
